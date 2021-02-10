@@ -1,1 +1,0 @@
-<?php echo'<script>window.location.replace("./Gray fish/admin/index.php");</script>';?>
